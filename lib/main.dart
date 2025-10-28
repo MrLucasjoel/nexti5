@@ -193,7 +193,7 @@ class _RecorderHomeState extends State<RecorderHome> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Gols Recorder'),
+        title: Text('Nexti5'),
         centerTitle: true,
       ),
       body: Column(
